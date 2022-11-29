@@ -1,0 +1,60 @@
+R1	n11	n15	0.0499603
+R2	n7	n19	7.08326
+R3	0	n12	0.725993
+R4	n18	n10	7.70764
+R5	n20	n3	3.49867	G2 % this is a group 2 element
+R6	n13	n6	430.478
+R7	n11	n14	0.00764392
+R8	n16	n5	0.0170771
+R9	n1	n12	0.0014039
+R10	n6	n7	705.908
+R11	n12	n5	98.9629
+R12	0	n3	419.069	G2 % this is a group 2 element
+R13	n19	n20	889.78
+R14	0	n13	0.00197068
+R15	n16	n10	0.678054
+R16	n7	n1	0.0806876	G2 % this is a group 2 element
+R17	n7	0	30.0074
+R18	n8	n17	0.552243	G2 % this is a group 2 element
+R19	n19	n5	0.0208469	G2 % this is a group 2 element
+R20	n13	n19	0.0458545
+R21	n11	n17	0.0340818
+R22	0	n11	612.324	G2 % this is a group 2 element
+R23	n6	n18	224.489
+R24	n15	0	0.0407325	G2 % this is a group 2 element
+R25	n14	n5	0.0224379
+R26	n9	n7	0.421796
+R27	n4	n19	57.1962
+R28	n15	n20	0.00562639	G2 % this is a group 2 element
+R29	n18	n16	86.3434	G2 % this is a group 2 element
+R30	n7	n14	0.883561	G2 % this is a group 2 element
+R31	n14	n3	6.78656
+R32	n12	n10	0.861401
+R33	n1	n13	7.35038
+R34	n16	n13	0.075926	G2 % this is a group 2 element
+R35	n17	n3	8.81195
+R36	n6	n10	7.76164
+R37	n6	n2	0.076642
+R38	n8	n14	122.048	G2 % this is a group 2 element
+R39	n11	n13	0.0485631
+R40	n14	n15	0.00438031
+V1	n12	n9	49.5433
+V2	n6	n16	76.4847
+V3	n12	n20	7.06547
+V4	n8	n3	0.649901
+V5	n8	n9	69.2455
+V6	n13	n12	0.000549465
+V7	n7	n8	0.0457167
+V8	n3	n16	0.943132
+V9	n2	n10	65.7516
+V10	n3	n11	0.0647825
+I1	n17	n15	4.60902
+I2	n13	n2	0.00778587
+I3	n17	n2	0.982021
+I4	n2	n16	0.112164
+I5	n16	n9	6.35035
+I6	n5	n4	9.37158
+I7	n1	n18	0.323679
+I8	n7	n10	0.0981848
+I9	n17	n19	3.80504
+I10	n7	n16	0.00188359

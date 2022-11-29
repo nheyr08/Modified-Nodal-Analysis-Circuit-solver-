@@ -1,0 +1,13 @@
+V1  n5   0    2
+V2  n3   n2   0.2
+V3  n7   n6   2
+I1  n4   n8   1e-3
+I2  0    n6   1e-3
+R1  n1   n5   1.5
+R2  n1   n2   1
+R3  n5   n2   50  G2 % this is a group 2 element
+R4  n5   n6   0.1
+R5  n2   n6   1.5
+R6  n3   n4   0.1
+R7  n8   0    1e3
+R8  n4   0    10  G2 % this is a group 2 element
