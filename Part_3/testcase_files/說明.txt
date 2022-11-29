@@ -1,0 +1,4 @@
+提供case1、case2的input(會有其他數個hidden cases來測試project 1正確性)，
+由於xVector排序可變，故提供兩個排序方式(正序、依照輸入排序)之對應解答給同學參考。
+
+若有自訂的xVector排序，請輸出相對應的output(助教會用程式檢查是否正確)。
